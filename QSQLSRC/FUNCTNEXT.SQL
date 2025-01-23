@@ -1,3 +1,3 @@
 CREATE FUNCTION &LIB/FUNCTN_EXTERNAL(CHAR)
 RETURNS CHAR EXTERNAL NAME ARS277
-prueba de juan  gomez
+prueba de sebastia borlasdfsjkdfhh
